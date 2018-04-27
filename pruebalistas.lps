@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="pruebalistas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="17" Y="15"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="PruebaListas\testcaselistas.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="36"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="PruebaListas\listaarrayunit.pas"/>
+        <UnitName Value="ListaArrayUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="5" Y="24"/>
+        <UsageCount Value="36"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="PruebaListas\listaenlazadaunit.pas"/>
+        <UnitName Value="ListaEnlazadaUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="26" Y="71"/>
+        <UsageCount Value="33"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="testcaselistas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="testcaseListas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="19" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="PruebaListas\listaarray.pas"/>
+        <UnitName Value="ListaArrayUnit"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="18"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="listaarrayunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="listaenlazadaunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit7>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="v"/>
+      </Item1>
+      <Item2>
+        <Expression Value="p"/>
+      </Item2>
+      <Item3>
+        <Expression Value="Fin(l)"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>
